@@ -1,3 +1,15 @@
+- title: Liaise Platform
+  url: https://liaiseplatform.com/
+  description: Ai Tools Hub - Access to hundreds of free Ai tools
+  categories:
+    - artificial intelligence
+    - AI
+    - Ai Tools
+  frontend:
+    - Nuxt.js
+    - UIkit
+  made_by: Harls Te
+  made_by_url: https://liaiseplatform.com/
 - title: Abhimanyu Garbhsanskar
   url: https://garbhsanskar.co.in
   description: Event, Workshop, E-commerce, and many more backends with strapi, Website on Next JS, Android & IOS app
